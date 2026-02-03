@@ -25,6 +25,7 @@ symbols:
 - {symbol: cn/iA, type: vowel}
 - {symbol: cn/ie, type: vowel}
 - {symbol: cn/iO, type: vowel}
+- {symbol: cn/i0, type: vowel}
 - {symbol: cn/ih, type: vowel}
 - {symbol: cn/ii, type: vowel}
 - {symbol: cn/j, type: affricate}
